@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp <!-- codebase="http://sites.google.com/site/juliangamble/Home/"  -->
-        codebase="file:///C:/Users/julian/Documents/Projects/clj-penumbra-examples"
+<jnlp  codebase="http://sites.google.com/site/juliangamble/Home/"  
       href="convolution.jnlp"> 
   <information>
     <title>Demonstration of Penumbras 3D Clojure Functionality</title>
