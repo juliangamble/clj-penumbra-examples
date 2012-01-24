@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp  codebase="http://sites.google.com/site/juliangamble/Home/"  
-      href="convolution.jnlp"> 
+<jnlp codebase="http://sites.google.com/site/juliangamble/Home/" 
+      href="fluid.jnlp"> 
   <information>
     <title>Demonstration of Penumbras 3D Clojure Functionality</title>
     <vendor>Machiavellian</vendor>
