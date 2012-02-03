@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<jnlp  codebase="http://sites.google.com/site/juliangamble/Home/"   
-      href="convolution.jnlp"> 
+<jnlp  codebase="http://sites.google.com/site/juliangamble/Home/" 
+      href="tea.jnlp"> 
   <information>
     <title>Demonstration of Penumbras 3D Clojure Functionality</title>
     <vendor>Machiavellian</vendor>
@@ -9,6 +9,6 @@
     <j2se version="1.4+" />
     <jar href="clj-penumbra-examples.jar" />
   </resources>
-  <application-desc main-class="example.gpgpu.convolution" />
+  <application-desc main-class="example.opengl.marble" />
   <security><all-permissions/></security>
 </jnlp>

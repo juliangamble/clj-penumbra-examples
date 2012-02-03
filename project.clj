@@ -4,6 +4,6 @@
                  [org.clojure/clojure-contrib "1.2.0"]
                  [penumbra "0.6.0"]]
   :source-path "src"
-	:main example.gpgpu.fluid
+	:main example.gpgpu.importer
 )
                  
